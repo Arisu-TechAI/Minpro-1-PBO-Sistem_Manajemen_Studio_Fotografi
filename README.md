@@ -1,5 +1,12 @@
 # Mini Project 1 PBO - Sistem Manajemen Studio Fotografi
 
+Oleh :  
+
+Nama    : Arizky Saputra   
+NIM     : 2509116088  
+Prodi   : Sistem Informasi  
+Kelas   : C 2025
+
 Program ini dibuat untuk memenuhi tugas Mini Project 1 mata kuliah Pemrograman Berbasis Objek (PBO) program studi S1 Sistem Informasi. Program ini mengimplementasikan konsep *Object-Oriented Programming* (OOP) menggunakan bahasa Java dan dikembangkan melalui Apache NetBeans.
 
 ## 1. Deskripsi Singkat Program
